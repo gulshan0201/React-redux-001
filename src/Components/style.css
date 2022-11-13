@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0; 
+}
+
+
+.light{
+  background-color: #fff;
+  color: black;
+}
+
+.dark{
+  background-color: black;
+  color: aqua;
+  height: 100vh;
+}
+
+.nav-bar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+}
+
+.btn{
+  padding: 0.2rem;
+}
+
+
